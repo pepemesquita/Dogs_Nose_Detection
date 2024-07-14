@@ -2,6 +2,9 @@
 
 This project focuses on developing a model to detect dog noses using the YOLOv8 object detection framework. The aim is to create an accurate and reliable detection system that can be used for scientific research purposes in the future.
 
+![image](https://github.com/user-attachments/assets/319db805-c043-45a6-98f5-e1959eb3e7d2)
+
+
 ## Prerequisites
 
 Ensure you have the following libraries installed:
@@ -105,8 +108,6 @@ import locale
 locale.getpreferredencoding = lambda: "UTF-8"
 !zip -r /content/runs.zip /content/runs
 ```
-
-This project serves as a foundational implementation for detecting dog noses. 
 
 ## Acknowledgments
 
