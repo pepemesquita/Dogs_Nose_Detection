@@ -1,5 +1,3 @@
-#Dog Nose Detection Project
-
 ## Project Overview
 
 This project focuses on developing a model to detect dog noses using the YOLOv8 object detection framework. The aim is to create an accurate and reliable detection system that can be used for scientific research purposes in the future.
